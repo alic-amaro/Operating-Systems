@@ -2,7 +2,7 @@ One of the coolest Windows OS functions would have to be its voice AI. It can op
 
 Another great function of a Windows OS fuction would be its touch interface. It is niclely responsive and fast. With this feature it gives you the opertunity in how you wish to enter in your input. Via keyboard or touch screen. 
 
-
+Windows OS also offers elmentary and secure logon functions. A pretty cool one is the facial recognition logon function and or the fingerprint scanner option. But you can always use a typical pasword logon as well. 
 
 
 
